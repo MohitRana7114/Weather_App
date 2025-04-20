@@ -17,5 +17,5 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-app-flutter.git
-cd weather-app-flutter
+git clone https://github.com/mohit7114/weather_app.git
+cd weather_app
