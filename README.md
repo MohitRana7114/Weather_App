@@ -1,2 +1,21 @@
-# Weather_App
-The Weather App is a mobile application built with Flutter, designed to provide users with real-time weather information for any city. By leveraging the power of APIs such as OpenWeatherMap, the app allows users to easily access key weather data such as temperature, humidity, wind speed, and weather conditions.
+# Weather App in Flutter
+
+A simple and responsive weather application built with Flutter. This app fetches real-time weather data for any city using the OpenWeatherMap API and displays the current weather details and a 7-day forecast.
+
+## Features
+
+- **Current Weather**: Displays real-time data like temperature, humidity, wind speed, and weather condition.
+- **Search Functionality**: Users can search for any city to get the latest weather information.
+- **7-Day Forecast**: View the forecast for the upcoming 7 days with detailed information.
+- **Responsive Design**: The app is optimized for both Android and iOS devices.
+- **User-Friendly UI**: A simple and intuitive interface to provide an easy experience.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/weather-app-flutter.git
+cd weather-app-flutter
